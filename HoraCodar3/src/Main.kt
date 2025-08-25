@@ -118,7 +118,7 @@ fun ex6() {
     var nota: Double = 0.0
     var media: Double
     var cont: Int = 0
-    var soma: Double = 0
+    var soma: Double = 0.0
 
     println("-----CALCULADORA DE MÉDIA-----")
     do {
